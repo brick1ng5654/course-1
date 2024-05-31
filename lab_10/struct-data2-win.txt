@@ -1,0 +1,9 @@
+0;Hayao Miyazaki
+1;Francis Ford Coppola
+2;Cristopher Nolan
+3;Greta Gerwig
+4;Denis Villeneuve
+5;Boris Khlebnikov
+6;Andrey Zvyagintsev
+7;Zack Snyder
+8;David Fincher
